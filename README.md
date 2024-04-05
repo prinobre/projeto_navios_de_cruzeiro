@@ -1,4 +1,4 @@
-# Projeto Análise Sanitária de Navios de Cruzeiro
+# Projeto Análise Sanitária de Navios de Cruzeiro - Linguagem SQL
 
 O objetivo desse exercício foi compreender algumas características dos dados, como os navios com pior classificação de risco, os navios com índices de conformidade mais alto, os navios com alta pontuação de risco, entre outros detalhes.
 
