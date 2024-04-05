@@ -19,8 +19,6 @@ https://dados.anvisa.gov.br/dados/Documentacao_e_Dicionario_de_Dados_Navios_Cruz
 Operadores Lógicos
 https://www.w3resource.com/sql/boolean-operator/sql-boolean-operators.php
 
-https://img.shields.io/badge/Alterado%20em%3A-JAN24-blue
-
 
 ![Static Badge](https://img.shields.io/badge/Desenvolvido%20em-JAN24-blue)
 
